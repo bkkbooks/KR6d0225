@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR6d0225/x/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋孤山沙門智圓著擬洛下分題并序有客示吾西臺御史集仙公李建中靜居分題者集仙得松石琴薦河南法椽鮑當得茯苓人青城僧惟鳳得遞詩筒巨鹿魏野得文石酒杯率皆彩筆奇絶理旨峭拔而使並驅於賦詠之塗爭雄於文翰之域者未見其後先勝負矣吾嗟玩之不足會抱疾講暇遂擬其題庶有思齊之心肯顧斆嚬之誚也松石琴薦松石為琴薦麟皺狀頗奇補天雖變質映㵎尚含滋靜砌和煙立虗堂帶蘚移最宜彈別鶴況有舊棲枝茯苓人本自松根得名因象物彰為醫君可信除疾我偏良濟衆應藏用捐軀必自強無勞問蹤跡名字在仙方遞詩筒元白舊裁製規模傳至今凌霜重高節容物貴虗心豈倦關河遠寧辨雨雪深雅言如見託終為報知音文石酒杯良匠鑿頑璞為杯異彩存雲蒸猶有潤蘚駮已無痕靜愛如冰潔間憐似玉溫野民便古質長把近窪樽友人元敏示以三題乃賡而和之挑燈杖裁製削青筠纖纖狀可珍助燈雖有力舉用實由人破暗如無怠資明敢顧身窗間儻勤學終夕願相親刮字刀質本精剛化鋒𨦵豈易羣未曾傷正典長為剗訛文類與鉛刀異名將彩筆分刪書及定禮曾忝立奇勳試金石真僞立可辨貞姿號試金雖無褒貶口似有是非心採取山溪遠緘藏篋笥深礦人如未訣終日自相尋燭蛾誡有蟲名燭蛾翱翔近燈火舉手再三遮彼意終不可驅去復飛來防護更勞我汝無縱所見自取燋肌禍挽歌詞三首二月二十八日作至二十九日終其一平生宗釋復宗儒竭慮研精四體枯莫待歸全寂無語始知諸法本來無其二蕭蕭墓後千竿竹墳前一樹松此處不須兄弟哭自然相對起悲風其三莫談生滅與無生謾把心神與物爭陶器一藏松樹下緑苔芳草任縱橫中庸子預自銘之曰墓志清淨本然無變無遷為藏陶器密邇間泉碼瑙坡四詠并序中庸子養病於瑪瑙坡病少間詠四物以四時見意其一瑪瑙坡前樹春來亦著華雨晴煙乍斂濃艷鬬朝霞其二瑪瑙坡前水泠泠夏亦寒夜深明月上珠顆落冰盤其三瑪瑙坡前路秋宵獨倚笻草深藏鬼火苔老絶人蹤其四瑪瑙坡前石堅貞可補天女媧何處去冷落沒寒煙
+  hash: sha256:1dc85b116ab41c24c14322e404e8e2257d9dc97968cdb2cb5a2364d05209e369
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 閑居編第三十七, id: KR6d0225_X_037-juan-start, juan_n: '037', jhead: 閑居編第三十七}
+  - {type: 其他, offset: 8, content: 詩, id: KR6d0225_X_037-mulu-1, level: '1'}
+  - {type: 其他, offset: 8, content: 擬洛下分題(并序), id: KR6d0225_X_037-mulu-2, level: '2'}
+  - {type: 其他, offset: 132, content: 松石琴薦, id: KR6d0225_X_037-mulu-3, level: '2'}
+  - {type: 其他, offset: 176, content: 茯苓人, id: KR6d0225_X_037-mulu-4, level: '2'}
+  - {type: 其他, offset: 219, content: 遞詩筒, id: KR6d0225_X_037-mulu-5, level: '2'}
+  - {type: 其他, offset: 262, content: 文石酒盃, id: KR6d0225_X_037-mulu-6, level: '2'}
+  - {type: 其他, offset: 306, content: 友人元敏示以三題乃賡而和之, id: KR6d0225_X_037-mulu-7, level: '2'}
+  - {type: 其他, offset: 319, content: 挑燈杖, id: KR6d0225_X_037-mulu-8, level: '3'}
+  - {type: 其他, offset: 362, content: 刮字刀, id: KR6d0225_X_037-mulu-9, level: '3'}
+  - {type: 其他, offset: 405, content: 試金石, id: KR6d0225_X_037-mulu-10, level: '3'}
+  - {type: 其他, offset: 448, content: 燭蛾誡, id: KR6d0225_X_037-mulu-11, level: '2'}
+  - {type: 其他, offset: 491, content: 挽歌詞三首, id: KR6d0225_X_037-mulu-12, level: '2'}
+  - {type: 其他, offset: 509, content: 其一, id: KR6d0225_X_037-mulu-13, level: '3'}
+  - {type: 其他, offset: 539, content: 其二, id: KR6d0225_X_037-mulu-14, level: '3'}
+  - {type: 其他, offset: 567, content: 其三, id: KR6d0225_X_037-mulu-15, level: '3'}
+  - {type: 其他, offset: 597, content: 中庸子預自銘之曰墓誌, id: KR6d0225_X_037-mulu-16, level: '2'}
+  - {type: 其他, offset: 623, content: 碼瑙坡四詠(并序), id: KR6d0225_X_037-mulu-17, level: '2'}
+  - {type: 其他, offset: 650, content: 其一, id: KR6d0225_X_037-mulu-18, level: '3'}
+  - {type: 其他, offset: 672, content: 其二, id: KR6d0225_X_037-mulu-19, level: '3'}
+  - {type: 其他, offset: 694, content: 其三, id: KR6d0225_X_037-mulu-20, level: '3'}
+  - {type: 其他, offset: 716, content: 其四, id: KR6d0225_X_037-mulu-21, level: '3'}
+  - {type: 'cbeta:juan-end', offset: 738, content: 閑居編第三十七, id: KR6d0225_X_037-juan-end, juan_n: '037', jhead: 閑居編第三十七}
+metadata:
+  title: 閑居編
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0949.xml
+    old_id: X56n0949
+hash: sha256:e976e9db536718a27774f9cf987bdbe39da04389e727a7bd0c554735027a498b
