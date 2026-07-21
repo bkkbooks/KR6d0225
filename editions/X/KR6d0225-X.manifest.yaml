@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0225_000-X.yaml, hash: 'sha256:ea7d275e44ca2af741ce006c97cc33d2ea316dc56229c5e77b95ad15b2789e6d'}
+  - {seq: 0, filename: KR6d0225_000-X.yaml, hash: 'sha256:a379d15442ae7b65fc5b3fba82515eab5f909b281507c81609765be72dccb207'}
   - {seq: 1, filename: KR6d0225_001-X.yaml, hash: 'sha256:c1f05230fe9c1f10645cfea9772e62a33e0eb1ddb2f6bd3214acc597a3f89218'}
   - {seq: 2, filename: KR6d0225_002-X.yaml, hash: 'sha256:5bb80100c0ad150d99d2b55f5dd51f53f97c32f42be773ad8151296d41e98474'}
   - {seq: 3, filename: KR6d0225_003-X.yaml, hash: 'sha256:3cc6d0f4fa73279d0998796835d0239fd6c3c32fac7cfbb924c01dfcd3c4d9bb'}
@@ -72,7 +72,7 @@ assets:
   - {seq: 50, filename: KR6d0225_050-X.yaml, hash: 'sha256:89fc0c5d63b5328a325f3350a6fdb963edfd0d4233b89ee3c6511abea4858e30'}
   - {seq: 51, filename: KR6d0225_051-X.yaml, hash: 'sha256:0a4956622d316ae8f83b3a96851af6d3f7ee31e7217ac3d9117df1028887e67a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0225_000-X.markers.yaml, hash: 'sha256:67563665f1bbfd6b206fdf5a2a143b9e03dc8dc74c140e174ca83f034081d055'}
+  - {seq: 0, role: markers, filename: assets/KR6d0225_000-X.markers.yaml, hash: 'sha256:a6afc443c48c50992995806406508efdf950c707daffa3acbf7a977763db5d81'}
   - {seq: 1, role: markers, filename: assets/KR6d0225_001-X.markers.yaml, hash: 'sha256:1ad468bd52249976e332938f72f99e23e4c0d01b3ca8030e47f4de18055dd0e5'}
   - {seq: 2, role: markers, filename: assets/KR6d0225_002-X.markers.yaml, hash: 'sha256:4fb7d264aba38671c2db326b8b4d1f65e078b306e260e3399bfc447ab637f82c'}
   - {seq: 3, role: markers, filename: assets/KR6d0225_003-X.markers.yaml, hash: 'sha256:c4c8d4d68189ee414658aeae9ca787460cea36bbf9cfa133e6c4c40f755f9385'}
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0225_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 949-A 閑居編序
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0225_X_000-mulu-2
     span:
-    - front
+    - body
     - 687
     - 687
   label: No. 949-B 自序
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0225_X_000-mulu-3
     span:
-    - front
+    - body
     - 828
     - 828
   label: 閒居編目次
@@ -6345,4 +6345,4 @@ table_of_contents:
   label: No. 949-D
   type: mulu
   level: 1
-hash: sha256:1a3cb936fd9bea6519825ccb9f75df926ed81cad33db0d131ec64c8156fa3009
+hash: sha256:a6e401d28d9627a5745f36a5b7a86acb45279e8f829a3d689dae3d062d8db52a
